@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning bachelor in computer science
 - 💞️ I’m looking to collaborate on different tech projects
-- 📫 How to reach me at github and linkdin
+- 📫  reach me at github and linkdin
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I hate maths
 
